@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorIMCApp
 build_property.RootNamespace = BlazorIMCApp
-build_property.ProjectDir = C:\Users\leobo\source\repos\MauiIMCApp\BlazorIMCApp\
+build_property.ProjectDir = c:\Users\leobo\source\repos\MauiIMCApp\BlazorIMCApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\leobo\source\repos\MauiIMCApp\BlazorIMCApp
+build_property.MSBuildProjectDirectory = c:\Users\leobo\source\repos\MauiIMCApp\BlazorIMCApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/leobo/source/repos/MauiIMCApp/BlazorIMCApp/App.razor]
+[c:/Users/leobo/source/repos/MauiIMCApp/BlazorIMCApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/source/repos/MauiIMCApp/BlazorIMCApp/_Imports.razor]
+[c:/Users/leobo/source/repos/MauiIMCApp/BlazorIMCApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = RCL
 build_property.RootNamespace = RCL
-build_property.ProjectDir = C:\Users\leobo\source\repos\MauiIMCApp\RCL\
+build_property.ProjectDir = c:\Users\leobo\source\repos\MauiIMCApp\RCL\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\leobo\source\repos\MauiIMCApp\RCL
+build_property.MSBuildProjectDirectory = c:\Users\leobo\source\repos\MauiIMCApp\RCL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/leobo/source/repos/MauiIMCApp/RCL/_Imports.razor]
+[c:/Users/leobo/source/repos/MauiIMCApp/RCL/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/source/repos/MauiIMCApp/RCL/Views/ImcView.razor]
+[c:/Users/leobo/source/repos/MauiIMCApp/RCL/Views/ImcView.razor]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1jVmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-3aco2ig3rw

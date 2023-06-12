@@ -20,20 +20,24 @@ mono_crash.*
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
+[Rr]elease/net7.0
 [Rr]eleases/
+[Rr]eleases/net7.0
 x64/
 x86/
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
+[Bb]in/*
 [Oo]bj/
+[Oo]bj/net7.0
 [Ll]og/
 [Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+MauiIMCApp/.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
