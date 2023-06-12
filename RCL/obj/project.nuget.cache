@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNiYW+mWugfViVrsQVnBmi4AjI44uUwff1K/q3Qn3cKjtUeNHtPKeGuqsmKswZl/wUIwu1e/mFIFaRXiAF9kSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leobo\\source\\repos\\MauiIMCApp\\RCL\\RCL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leobo\\.nuget\\packages\\blazorise\\1.2.3\\blazorise.1.2.3.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\blazorise.bootstrap\\1.2.3\\blazorise.bootstrap.1.2.3.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\blazorise.icons.fontawesome\\1.2.3\\blazorise.icons.fontawesome.1.2.3.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\blazorise.licensing\\1.1.0\\blazorise.licensing.1.1.0.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.5\\microsoft.aspnetcore.components.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.5\\microsoft.aspnetcore.components.forms.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.5\\microsoft.aspnetcore.components.web.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.5\\microsoft.aspnetcore.metadata.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.jsinterop\\7.0.5\\microsoft.jsinterop.7.0.5.nupkg.sha512",
+    "C:\\Users\\leobo\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

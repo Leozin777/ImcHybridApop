@@ -1,0 +1,21 @@
+header[b-3aco2ig3rw] {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #512bdf;
+    justify-content: space-between;
+    padding: 0 5%;
+    height: 3.5em;
+    box-shadow: 1px 1px 4px #512bdf;
+    color:white;
+}
+
+.container[b-3aco2ig3rw]{
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+
+text[b-3aco2ig3rw]{
+    text-align: center;
+}

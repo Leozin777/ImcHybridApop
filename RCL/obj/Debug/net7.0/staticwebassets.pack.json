@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\leobo\\source\\repos\\MauiIMCApp\\RCL\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RCL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RCL.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\leobo\\source\\repos\\MauiIMCApp\\RCL\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\leobo\\source\\repos\\MauiIMCApp\\RCL\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RCL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RCL.props",
+      "PackagePath": "build\\RCL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RCL.props",
+      "PackagePath": "buildMultiTargeting\\RCL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RCL.props",
+      "PackagePath": "buildTransitive\\RCL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
